@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <center>
+      <h1>Lorem Ipsum</h1>
+      <p>
+        "Labore corporis fugiat laboriosam molestiae porro possimus modi
+        assumenda, soluta beatae asperiores exercitationem commodi!
+      </p>
+      <p>
+        "There is no one who loves pain itself, who seeks after it and wants to
+        have it, simply because it is pain..."
+      </p>
+    </center>
+    <hr>
+    <p>
+      <b>L</b>orem ipsum dolor sit amet consectetur adipisicing elit. Doloremque
+      obcaecati, perferendis fuga quo iusto totam asperiores? Debitis quidem
+      voluptatem magnam aspernatur adipisci blanditiis, dolore deleniti quaerat
+      consequatur, consectetur odit maiores!
+    </p>
+    <p>
+      <b>N</b>oluptatibus quidem deserunt pariatur ratione quia officiis hic
+      excepturi rerum culpa! Eos quos quidem iure dolor, rerum officia maxime
+      quod repellat enim.
+    </p>
+    <p>
+      <b>B</b>arum, maiores necessitatibus aliquid modi eligendi nobis, ipsam
+      est cupiditate saepe corrupti doloribus laudantium illum nesciunt corporis
+      natus iure distinctio reprehenderit. Perspiciatis.
+    </p>
+</hr>
+  </body>
+</html>
