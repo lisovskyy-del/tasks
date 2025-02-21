@@ -1,0 +1,12 @@
+main {
+  margin: 0 auto;
+  width: 1000px;
+  background-color: rgb(53, 53, 53, 0.7);
+  padding: 50px;
+  color: white;
+}
+
+body {
+  background-image: url("https://t3.ftcdn.net/jpg/03/23/92/96/360_F_323929694_BKkGKE8dWIWqpG91tzYFC3GHPNdjg6mh.jpg");
+  background-attachment: fixed;
+}
