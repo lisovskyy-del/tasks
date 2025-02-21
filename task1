@@ -4,38 +4,275 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link rel="stylesheet" href="task1style.css" />
   </head>
   <body>
-    <h1>Vehicle</h1>
-    <p>
-      A vehicle (from Latin: vehiculum<sup><a href="#">[1]</a></sup
-      >) is a machine that transports people or cargo. Vehicles include wagons,
-      bicycles, motor vehicles (motorcycles, cars, trucks, buses), railed
-      vehicles (trains, trams), watercraft (ships, boats), amphibious vehicles
-      (screw-propelled vehicles, hovercraft), aircraft (airplanes, helicopters),
-      and spacecraft<sup><a href="#">[2]</a></sup
-      >.
-    </p>
-    <p>
-      Land vehicles are broadly classified based on the method used to apply
-      steering and drive forces to the ground: wheeled, tracked, railed, or
-      skied. ISO 3833-1977 is the standard, also internationally used in
-      legislation, for defining road vehicle types, terms, and definitions<sup
-        ><a href="#">[1]</a></sup
-      >.
-    </p>
-    <hr>
+    <main>
       <p>
-        [1] - "vehicle, n.", OED Online, Oxford University Press, November 2010
+        <span
+          >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate
+          incidunt quia quibusdam dolorum fugit repellat autem nemo officia hic
+          sunt facere consequatur, inventore aperiam animi tenetur? Rem natus
+          nam saepe?</span
+        ><span
+          >Eos dolore similique nostrum amet, hic ipsam voluptatem nihil modi
+          incidunt quis voluptate, laborum iure reprehenderit assumenda debitis
+          doloribus fugiat dignissimos quisquam neque praesentium consequatur at
+          ratione minus? Cum, omnis!</span
+        ><span
+          >Unde rerum officiis, aliquid a nihil repellendus doloremque quasi
+          voluptatum eum placeat, odit accusantium, iure nemo illum repellat
+          quidem similique. Autem nam recusandae ratione quo molestias explicabo
+          asperiores nesciunt atque?</span
+        ><span
+          >Incidunt officiis ab quia impedit, non asperiores animi amet
+          doloremque porro quidem necessitatibus ducimus corrupti quae sapiente
+          odit? Harum hic laborum temporibus, ratione corrupti in accusantium
+          eum iure dolorem distinctio!</span
+        ><span
+          >Ipsum exercitationem cupiditate est et modi, suscipit itaque?
+          Accusantium corrupti explicabo porro? Nulla culpa praesentium expedita
+          ab debitis consequatur nihil est. Rerum a impedit sed. Vero sed
+          delectus eos corporis?</span
+        ><span
+          >Voluptas rerum quisquam nostrum optio quaerat necessitatibus enim nam
+          dolorum, sequi sint id. Asperiores minima itaque excepturi numquam
+          doloribus vero tempora. Doloremque sunt iusto nemo repudiandae iure,
+          maiores quo hic.</span
+        ><span
+          >Quo molestiae quisquam, vero adipisci rerum aspernatur hic culpa
+          eligendi, tempora corporis deleniti voluptates nam quasi sapiente
+          dolor tempore ipsa dolore ea dolores magni? Temporibus cupiditate
+          aperiam distinctio dicta ut?</span
+        ><span
+          >Soluta magnam expedita dolorem aliquam laboriosam pariatur labore
+          sunt est sequi veritatis sed, perferendis eaque, quisquam quaerat
+          earum possimus cupiditate similique tempora eius dolores explicabo
+          vitae in! Nesciunt, ratione voluptate!</span
+        ><span
+          >Inventore error sequi ex aliquid nulla, dolore quae consequuntur
+          eveniet necessitatibus eligendi hic reiciendis optio autem blanditiis
+          placeat tenetur tempore delectus aspernatur? Ut, velit aliquam sequi
+          doloremque necessitatibus vero rem?</span
+        ><span
+          >Repudiandae perferendis dignissimos, earum minus excepturi quam
+          molestiae aliquam ipsam aperiam delectus molestias culpa laborum
+          maiores impedit blanditiis aliquid totam voluptate suscipit tempore
+          reprehenderit saepe voluptates temporibus. Ullam, provident
+          perferendis!</span
+        >
       </p>
       <p>
-        [2] - Halsey, William D.(Editorial Director):MacMillan Contemprorary
-        Dictionary, page 1106.MacMillan Publishing, 1979. ISBN 0-02-080780-5
+        <span
+          >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla
+          recusandae pariatur non labore nostrum nihil beatae veritatis, eaque
+          ex animi vitae est quis ab consequatur error minima velit laboriosam
+          provident.</span
+        ><span
+          >Harum numquam cupiditate voluptas sequi alias, magnam porro quo ad
+          libero tempora voluptate quaerat, reiciendis aliquam dolorem maiores
+          consequuntur necessitatibus dicta autem blanditiis? Nemo facilis
+          officia nulla architecto, cupiditate dolore.</span
+        ><span
+          >Nesciunt soluta iste laudantium nisi laborum perspiciatis quaerat
+          quidem, eligendi esse hic culpa expedita tempore repudiandae
+          consequatur magni amet eum atque minus placeat assumenda laboriosam
+          nihil aspernatur ullam aliquam. Beatae!</span
+        ><span
+          >Reiciendis voluptatum beatae harum facere, iusto officia, deleniti
+          accusantium quasi corporis animi quia provident nemo dignissimos
+          excepturi voluptate ea aliquid assumenda! Assumenda aspernatur
+          cupiditate corrupti a temporibus nemo dignissimos rem.</span
+        ><span
+          >In, tempora obcaecati? Enim eaque distinctio placeat incidunt non
+          numquam? Libero odio earum pariatur nesciunt facere iusto quos
+          excepturi ea totam odit quae error voluptatum, in cumque, voluptatem
+          sequi? Quis!</span
+        ><span
+          >Illo exercitationem dicta eos cum quibusdam rerum nulla deserunt a
+          fuga ipsum tenetur numquam suscipit necessitatibus laudantium, unde
+          modi non, nisi molestiae, velit veniam sint commodi excepturi
+          reiciendis quasi. Tempora.</span
+        ><span
+          >Quas ea laborum possimus alias fugiat magnam id consequuntur enim,
+          totam obcaecati minima quam itaque repudiandae consectetur veniam
+          saepe reprehenderit libero a nemo perspiciatis facilis ipsa? Assumenda
+          eligendi nemo earum?</span
+        ><span
+          >Alias corrupti natus velit sint cumque ratione architecto dolorum
+          nobis nostrum ipsam iste beatae eveniet, vero odit incidunt quam
+          maxime quo non, deserunt pariatur unde sed? Accusantium sequi itaque
+          fugiat.</span
+        ><span
+          >Asperiores distinctio exercitationem amet repellat, blanditiis sequi
+          impedit eius cum cupiditate quia maxime totam? Voluptate debitis
+          possimus nisi harum sequi consequuntur nesciunt a quae dicta eveniet
+          facilis, nam aperiam. Adipisci.</span
+        ><span
+          >Accusamus consectetur similique, incidunt veniam ipsum quam repellat
+          itaque quaerat veritatis cumque in praesentium voluptas soluta
+          voluptatum, voluptatibus eos beatae quasi facere quisquam fuga! Fuga
+          enim illo nam ipsa deserunt?</span
+        >
       </p>
       <p>
-        [3] - ISO 3833:1977 Road vehicles - Types - Terms and definitions
-        Webstore.anis.org
+        <span
+          >Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
+          maiores voluptatum dolorum iure hic! Praesentium tempora soluta ipsa
+          maiores harum eius ut unde totam eligendi, assumenda explicabo quidem,
+          veritatis nostrum!</span
+        ><span
+          >Quae at similique ea animi odio dignissimos vero aspernatur iste,
+          ipsum explicabo voluptatibus maxime natus consequatur deleniti laborum
+          eveniet voluptas consequuntur dolorum reprehenderit reiciendis.
+          Numquam alias quasi eos veniam mollitia.</span
+        ><span
+          >Rem sit laudantium neque voluptatem vero, mollitia nostrum eum vel.
+          Unde eum ab aperiam sed mollitia dolore molestiae sint tenetur non
+          vero error in, voluptatibus quos ipsum molestias, suscipit
+          veritatis!</span
+        ><span
+          >Inventore officia quod delectus, dolorem esse sit earum iste placeat
+          maxime sed eum aspernatur atque rem, voluptate nobis qui! Accusantium
+          delectus, et nulla nobis eos eaque expedita vero culpa tempora?</span
+        ><span
+          >Totam quae, hic aliquam, assumenda nostrum iusto nulla nesciunt vero
+          ducimus corporis id, ad quas distinctio. Ipsum id suscipit magni
+          architecto minus, ea tempora vel praesentium cumque rerum earum
+          distinctio.</span
+        ><span
+          >Iusto dolore quia sed possimus vitae aliquid, reiciendis voluptas
+          suscipit eos illo eaque facere sapiente qui ipsa fuga repudiandae
+          optio culpa ab. Rerum totam necessitatibus cupiditate odit doloribus
+          sunt dolor!</span
+        ><span
+          >Consequuntur fugiat accusantium impedit doloremque soluta facilis
+          excepturi ex deleniti, inventore est dolore non ducimus atque
+          architecto dicta. Praesentium doloremque consectetur fuga totam!
+          Itaque magnam officia accusamus? Delectus, iure aliquid?</span
+        ><span
+          >Saepe quidem quis voluptatum eaque odit sed quia placeat qui, atque
+          aperiam dolorum commodi deserunt ab eos, magni tempore, perspiciatis
+          natus praesentium? Recusandae mollitia nihil officia asperiores
+          aliquam cumque pariatur?</span
+        ><span
+          >Voluptatum saepe quo obcaecati officia labore commodi nisi
+          repudiandae fugit quibusdam delectus. Nulla dicta amet laboriosam quia
+          a, totam minus vel itaque incidunt veritatis, doloribus maiores natus
+          recusandae deserunt est!</span
+        ><span
+          >Ipsam sed beatae eius, distinctio similique perspiciatis. Dolores
+          assumenda, quis minus rem explicabo voluptatum similique animi.
+          Numquam ducimus quibusdam vel eaque quae possimus repellat molestiae
+          incidunt cumque. Magnam, molestiae distinctio?</span
+        >
       </p>
-    </hr>
+      <p>
+        <span
+          >Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
+          numquam molestiae molestias nobis. Asperiores illo alias sit excepturi
+          minima sequi, blanditiis eius nesciunt recusandae, officia similique
+          expedita rem autem aperiam?</span
+        ><span
+          >Vero inventore quis tempore perferendis libero temporibus fugiat
+          quaerat debitis maxime fugit officia optio, nihil recusandae. Harum
+          quae iusto totam voluptas suscipit reiciendis. Necessitatibus cumque
+          nihil sit vero nulla pariatur.</span
+        ><span
+          >Facere voluptas eligendi culpa laboriosam id pariatur nisi accusamus
+          amet nostrum praesentium sequi beatae neque illo architecto, adipisci
+          non delectus natus unde. Cum eum repellat unde magnam. Earum, aliquid
+          minus!</span
+        ><span
+          >Doloribus ab totam doloremque facilis minima consequatur, officiis
+          est illum quas quis quasi ut, ea dolor eos nobis saepe beatae ducimus
+          at. Asperiores voluptates soluta vitae tempore laboriosam autem
+          eum.</span
+        ><span
+          >Nam suscipit placeat soluta nobis, animi atque maxime asperiores quam
+          voluptas minus similique accusantium amet corporis aliquam! A
+          veritatis consequuntur incidunt nihil possimus saepe cupiditate illum
+          suscipit doloribus, accusamus cumque.</span
+        ><span
+          >Suscipit asperiores quam quidem assumenda magnam expedita iusto qui
+          cumque facere possimus, unde, voluptatum quis culpa maxime quo
+          sapiente cum, odio totam pariatur molestiae recusandae. Modi ea
+          placeat nihil dicta?</span
+        ><span
+          >Numquam, ullam! Atque, cumque! Ratione aliquam commodi aperiam quod
+          tempore aspernatur fugiat omnis sint amet tempora, illum veniam vitae
+          at quos earum totam incidunt odit ab corrupti labore in!
+          Consequatur!</span
+        ><span
+          >Beatae error natus, optio cumque fugit explicabo nostrum placeat?
+          Esse temporibus quis iusto eum neque dolorem tempore maiores
+          asperiores perspiciatis provident. Est asperiores totam perspiciatis
+          sed earum, sint quia sunt.</span
+        ><span
+          >Officia sint quibusdam ea aspernatur hic at explicabo in perferendis
+          nulla ad deserunt optio, labore dolore nobis placeat aperiam quidem
+          itaque rerum dolor corrupti aliquam voluptatum reiciendis fugit
+          consequuntur! Iure!</span
+        ><span
+          >Nisi magni at omnis neque excepturi praesentium quae incidunt
+          cupiditate facilis modi pariatur, eum facere tenetur, cumque corporis
+          suscipit sapiente porro necessitatibus ab odit commodi similique iure
+          totam! Ad, ducimus?</span
+        >
+      </p>
+      <p>
+        <span
+          >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat
+          ipsa, sit dolorum dolorem esse illum et iure amet voluptates
+          perspiciatis aspernatur repellendus delectus cum numquam, animi
+          deleniti sed commodi fuga!</span
+        ><span
+          >Fugiat facilis quo explicabo ducimus qui! Porro vero explicabo quam
+          dolorem modi incidunt perspiciatis ab autem, sit cupiditate debitis
+          doloribus voluptatibus nulla. Hic voluptatibus molestias repudiandae
+          aut minus maiores explicabo?</span
+        ><span
+          >Laudantium non, veritatis recusandae, voluptatum suscipit aut iste
+          quia eaque amet voluptates, aperiam quo nisi molestias. Modi
+          perferendis exercitationem alias autem rem eius ratione quo odio
+          praesentium. Aspernatur, eius molestiae.</span
+        ><span
+          >Nobis sit culpa fuga, tempore, reprehenderit earum maiores ducimus
+          placeat itaque, consectetur reiciendis fugiat eveniet ad harum. Esse
+          velit distinctio laboriosam deleniti, sit necessitatibus ipsum eveniet
+          eligendi molestiae accusantium incidunt?</span
+        ><span
+          >Ducimus officia ex aut, temporibus reprehenderit distinctio facilis
+          ipsum deleniti numquam magni totam! Quia, optio soluta! Voluptas
+          laborum possimus maiores vel maxime voluptates nostrum, iure animi
+          blanditiis rerum eius dolor.</span
+        ><span
+          >Unde officia voluptatibus totam fugiat blanditiis quaerat sunt iusto,
+          quibusdam quod magnam? Reiciendis ipsa libero est, optio laborum,
+          placeat modi odit deserunt quis, nisi accusantium ratione error
+          quaerat doloribus. Recusandae?</span
+        ><span
+          >Atque libero laboriosam magni nulla nemo temporibus ipsum, pariatur
+          reiciendis consequuntur! Repudiandae a eligendi animi sequi
+          repellendus inventore voluptate, aut totam atque ad. Tempora nihil
+          culpa minima dolorum mollitia sapiente?</span
+        ><span
+          >Facilis magni perspiciatis nihil? Maxime dolorem magnam praesentium,
+          inventore laudantium cumque illo ducimus fugit pariatur. Ad, modi.
+          Minima nemo neque numquam culpa hic alias voluptates, reiciendis
+          molestias. Maxime, similique atque.</span
+        ><span
+          >Eligendi error itaque magni omnis maxime minus sint iusto, earum
+          voluptatum dolor architecto sequi odit repellendus facilis similique
+          saepe explicabo est ad et! Laborum eligendi dicta porro maiores sit?
+          Adipisci.</span
+        ><span
+          >Similique dolores expedita debitis perferendis adipisci eum facilis
+          quas ducimus alias, veniam molestias officia hic doloribus unde qui
+          illo molestiae blanditiis cumque quam. Repudiandae libero quas culpa
+          ipsum. Voluptatibus, praesentium.</span
+        >
+      </p>
+    </main>
   </body>
 </html>
